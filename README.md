@@ -5,10 +5,10 @@
 
 A Calculadora de IMC é um aplicativo desenvolvido em Groovy e Java que permite calcular o Índice de Massa Corporal (IMC) de forma rápida e precisa. O aplicativo te fornece um cálculo e classificaação a depender do seu IMC.
 
-🚀 Funcionalidades
-✔️ Cálculo do IMC com base no peso e altura inseridos pelo usuário
-✔️ Exibição da classificação do IMC (Abaixo do peso, Normal, Sobrepeso, Obesidade, etc.)
-✔️ Interface simples e intuitiva
+# 🚀 Funcionalidades
+## ✔️ Cálculo do IMC com base no peso e altura inseridos pelo usuário
+## ✔️ Exibição da classificação do IMC (Abaixo do peso, Normal, Sobrepeso, Obesidade, etc.)
+## ✔️ Interface simples e intuitiva
 
 🛠️ Tecnologias utilizadas
 Groovy
