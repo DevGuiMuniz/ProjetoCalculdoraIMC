@@ -10,28 +10,28 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.CalculadoraIMC"
+        android:theme="@style/Theme.AtvAvaliativa"
         tools:targetApi="31">
         <activity
-            android:name=".SobrepesoActivity"
+            android:name=".activity_obesidade3"
             android:exported="false" />
         <activity
-            android:name=".CalculoIMCActivity"
+            android:name=".activity_obesidade2"
             android:exported="false" />
         <activity
-            android:name=".Obesidade3Activity"
+            android:name=".activity_obesidade1"
             android:exported="false" />
         <activity
-            android:name=".Obesidade2Activity"
+            android:name=".activity_sobrepeso"
             android:exported="false" />
         <activity
-            android:name=".Obesidade1Activity"
+            android:name=".activity_peso_normal"
             android:exported="false" />
         <activity
-            android:name=".PesoNormalActivity"
+            android:name=".activity_abaixo_do_peso"
             android:exported="false" />
         <activity
-            android:name=".AbaixoDoPesoActivity"
+            android:name=".activity_calculo_imc"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
